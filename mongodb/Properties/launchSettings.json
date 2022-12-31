@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mongodb": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
